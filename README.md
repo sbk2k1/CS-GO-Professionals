@@ -17,7 +17,7 @@ It is one of the biggest eSports title out there. In this project we scrape and 
 ## Project structure
 
 ```
-  ├── Feature Engineering and EDA/        Code and Dataset for performing Feature Engineering and EDA.
+  ├── Transaction/        
   ├── scraping notebook.ipynb             Notebook for Scraping the website
   ├── CSGO Player Dataset.csv             Original Dataset about CSGO Player Dataset
 ```
@@ -94,8 +94,8 @@ Contributing is also a great way to learn more about social coding on Github, ne
 - Before Submitting the PR, make sure to have a link of colab notebook of the feature/issue solved so that we can check easily. This even applies to those who are doing on anaconda.
 ## Authors
 
-- sbk_2k1
-- Arya 
+- [@sbk2k1](https://github.com/sbk2k1)
+- [@AryaChakraborty](https://github.com/AryaChakraborty)
 
 ## License
 
