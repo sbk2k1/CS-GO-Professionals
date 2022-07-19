@@ -1,15 +1,25 @@
 
 # CS-GO-Professionals
 
+[![Contributors](https://img.shields.io/github/contributors/dsckgec/project-template.svg)](https://github.com/dsckgec/project-template/graphs/contributors) [![Forks](https://img.shields.io/github/forks/dsckgec/project-template.svg)](https://github.com/dsckgec/project-template/network/members) [![Issues](https://img.shields.io/github/issues/dsckgec/project-template.svg)](https://github.com/dsckgec/project-template/issues) [![Pull Request](https://img.shields.io/github/issues-pr-closed-raw/dsckgec/project-template)](https://github.com/dsckgec/project-template/pulls)
+
+## Contents
+
+1. [Description](#description)
+1. [Project structure](#project-structure)
+1. [Getting started](#getting-started)
+1. [Contributing](#contributing)
+1. [Authors](#authors)
+1. [License](#license)
+
 ![CSGO](https://cdn.akamai.steamstatic.com/steam/apps/730/ss_60b4f959497899515f46012df805b0006ef21af6.1920x1080.jpg?t=1641233427)
 
-## About the Project
+## Description
 
 Counter-Strike: Global Offensive is a 2012 multiplayer first-person shooter developed by Valve and Hidden Path Entertainment. It is the fourth game in the Counter-Strike series.
 It is one of the biggest eSports title out there. In this project we scrape and work on a dataset of all CSGO Athletes.
 
-## Outline of Project
-
+The entire flow of the project includes:
 - Scrape the Dataset from this [Website](https://www.hltv.org/stats/players)
 - Perform Feature Engineering to create insightful columns
 - Perform Exploratory Data Analysis to create insights and meaningful dashboards
