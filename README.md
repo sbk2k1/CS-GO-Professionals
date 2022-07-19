@@ -66,25 +66,22 @@ The entire flow of the project includes:
 
 ### Installing
 
-There are two ways of running the code.
-  1. Running the code on web browser.(Google Colab) [Recommended]
-      - Head on to [Google colab](https://colab.research.google.com/)
-      - Then click on ```Upload Notebook``` Tab.
-      - Upload the notebook that you got from this repo.
-        ![Colab-1](https://res.cloudinary.com/codehackerone/image/upload/v1618463907/ML/colab-2_c14swf.png)
-      - Connect with the runtime.
-        ![Colab-2](https://res.cloudinary.com/codehackerone/image/upload/v1618464955/ML/Colab-3_da822c.png)
-      - Upload your dataset.
-        ![Colab-3](https://res.cloudinary.com/codehackerone/image/upload/v1618464958/ML/Colab-04_sxfyjx.png)
-      - Then Click on ```Run All```.
-        ![Colab-4](https://res.cloudinary.com/codehackerone/image/upload/v1618465413/ML/colab-5_i92bzp.png)
-      - Start Editing.
+Clone the project
 
-  2. You can also run the code locally in your computer by installing Anaconda.
-      - Install Anaconda. [Follow these steps to install Anaconda on your computer](https://www.edureka.co/blog/python-anaconda-tutorial/#:~:text=on%20our%20systems.-,Installation%20And%20Setup,the%20instructions%20in%20the%20setup.)
-      - Install jupyter notebook using ```conda```. [Follow these steps to install jupyter notebook.](https://test-jupyter.readthedocs.io/en/latest/install.html)
-      - Make sure to install ```pandas```,```matplotlib```,```seaborn``` and ```scikit-learn``` to run the notebook.
-      - Start Editing.
+```bash
+  git clone https://github.com/sbk2k1/CS-GO-Professionals.git
+```
+
+Go to the project directory
+
+```bash
+  cd CS-GO-Professionals
+```
+
+To run this:
+```bash
+  pip3 install -r requirements.txt
+```
 
 
 ## Contributing
