@@ -80,7 +80,9 @@ Go to the project directory
 
 To run this:
 ```bash
-  pip3 install -r requirements.txt
+  pip install bs4
+  pip install pandas
+  pip install requests
 ```
 
 
