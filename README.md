@@ -89,22 +89,9 @@ There are two ways of running the code.
 
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. 
-Any contributions you make are **greatly appreciated**. 
-Contributing is also a great way to learn more about social coding on Github, new technologies and and their ecosystems and how to make constructive, helpful bug reports, feature requests and the noblest of all contributions: a good, clean pull request.
+Please read [contributing.md](contributing.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
-### Guidelines
 
-- Before starting to work on any issue or feature, open an issue explaining the changes you want to make and wait for any of the project maintainers to assign it to you.
-- Use better commit messages that explain the changes you make. View the example below:
-    - Bad commit message: `updated readme`
-    - Good commit message: `updated contributors list in readme`
-- You **should not**, in any case, use resources or code snippets from sources that do not allow their public use.
-
-### Steps to follow for Pull Request
-
-- For solving an issue/adding a feature, write the code ***after*** the original code finishes and do not forget to add the issue name and number as a heading in the notebook.
-- Before Submitting the PR, make sure to have a link of colab notebook of the feature/issue solved so that we can check easily. This even applies to those who are doing on anaconda.
 ## Authors
 
 - [@sbk2k1](https://github.com/sbk2k1)
